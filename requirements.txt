@@ -1,1 +1,5 @@
-# standard library only (sqlite3)
+# For queries: standard library only (sqlite3)
+# For visualize.py + tests:
+pandas>=2.0
+matplotlib>=3.7
+pytest>=7.4
